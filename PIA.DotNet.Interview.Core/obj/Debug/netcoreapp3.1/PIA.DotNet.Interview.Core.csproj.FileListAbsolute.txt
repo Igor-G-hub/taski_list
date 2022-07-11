@@ -1,0 +1,10 @@
+D:\02_pia4.0\Neue_Mitarbeiter\Bewerbungsgespräche\Beispiele_Fragenkatalog\PIA.DotNet.Interview\src\PIA.DotNet.Interview.Core\bin\Debug\netcoreapp3.1\PIA.DotNet.Interview.Core.deps.json
+D:\02_pia4.0\Neue_Mitarbeiter\Bewerbungsgespräche\Beispiele_Fragenkatalog\PIA.DotNet.Interview\src\PIA.DotNet.Interview.Core\bin\Debug\netcoreapp3.1\PIA.DotNet.Interview.Core.dll
+D:\02_pia4.0\Neue_Mitarbeiter\Bewerbungsgespräche\Beispiele_Fragenkatalog\PIA.DotNet.Interview\src\PIA.DotNet.Interview.Core\bin\Debug\netcoreapp3.1\PIA.DotNet.Interview.Core.pdb
+D:\02_pia4.0\Neue_Mitarbeiter\Bewerbungsgespräche\Beispiele_Fragenkatalog\PIA.DotNet.Interview\src\PIA.DotNet.Interview.Core\obj\Debug\netcoreapp3.1\PIA.DotNet.Interview.Core.csproj.AssemblyReference.cache
+D:\02_pia4.0\Neue_Mitarbeiter\Bewerbungsgespräche\Beispiele_Fragenkatalog\PIA.DotNet.Interview\src\PIA.DotNet.Interview.Core\obj\Debug\netcoreapp3.1\PIA.DotNet.Interview.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\02_pia4.0\Neue_Mitarbeiter\Bewerbungsgespräche\Beispiele_Fragenkatalog\PIA.DotNet.Interview\src\PIA.DotNet.Interview.Core\obj\Debug\netcoreapp3.1\PIA.DotNet.Interview.Core.AssemblyInfoInputs.cache
+D:\02_pia4.0\Neue_Mitarbeiter\Bewerbungsgespräche\Beispiele_Fragenkatalog\PIA.DotNet.Interview\src\PIA.DotNet.Interview.Core\obj\Debug\netcoreapp3.1\PIA.DotNet.Interview.Core.AssemblyInfo.cs
+D:\02_pia4.0\Neue_Mitarbeiter\Bewerbungsgespräche\Beispiele_Fragenkatalog\PIA.DotNet.Interview\src\PIA.DotNet.Interview.Core\obj\Debug\netcoreapp3.1\PIA.DotNet.Interview.Core.csproj.CoreCompileInputs.cache
+D:\02_pia4.0\Neue_Mitarbeiter\Bewerbungsgespräche\Beispiele_Fragenkatalog\PIA.DotNet.Interview\src\PIA.DotNet.Interview.Core\obj\Debug\netcoreapp3.1\PIA.DotNet.Interview.Core.dll
+D:\02_pia4.0\Neue_Mitarbeiter\Bewerbungsgespräche\Beispiele_Fragenkatalog\PIA.DotNet.Interview\src\PIA.DotNet.Interview.Core\obj\Debug\netcoreapp3.1\PIA.DotNet.Interview.Core.pdb

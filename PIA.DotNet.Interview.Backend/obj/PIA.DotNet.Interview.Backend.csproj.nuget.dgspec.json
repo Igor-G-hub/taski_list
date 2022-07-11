@@ -1,0 +1,153 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\02_pia4.0\\Neue_Mitarbeiter\\Bewerbungsgespräche\\Beispiele_Fragenkatalog\\PIA.DotNet.Interview\\src\\PIA.DotNet.Interview.Backend\\PIA.DotNet.Interview.Backend.csproj": {}
+  },
+  "projects": {
+    "D:\\02_pia4.0\\Neue_Mitarbeiter\\Bewerbungsgespräche\\Beispiele_Fragenkatalog\\PIA.DotNet.Interview\\src\\PIA.DotNet.Interview.Backend\\PIA.DotNet.Interview.Backend.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\02_pia4.0\\Neue_Mitarbeiter\\Bewerbungsgespräche\\Beispiele_Fragenkatalog\\PIA.DotNet.Interview\\src\\PIA.DotNet.Interview.Backend\\PIA.DotNet.Interview.Backend.csproj",
+        "projectName": "PIA.DotNet.Interview.Backend",
+        "projectPath": "D:\\02_pia4.0\\Neue_Mitarbeiter\\Bewerbungsgespräche\\Beispiele_Fragenkatalog\\PIA.DotNet.Interview\\src\\PIA.DotNet.Interview.Backend\\PIA.DotNet.Interview.Backend.csproj",
+        "packagesPath": "C:\\Users\\mwerschitz\\.nuget\\packages\\",
+        "outputPath": "D:\\02_pia4.0\\Neue_Mitarbeiter\\Bewerbungsgespräche\\Beispiele_Fragenkatalog\\PIA.DotNet.Interview\\src\\PIA.DotNet.Interview.Backend\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mwerschitz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 19.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/piagroup/_packaging/DiamondFramework/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\02_pia4.0\\Neue_Mitarbeiter\\Bewerbungsgespräche\\Beispiele_Fragenkatalog\\PIA.DotNet.Interview\\src\\PIA.DotNet.Interview.Core\\PIA.DotNet.Interview.Core.csproj": {
+                "projectPath": "D:\\02_pia4.0\\Neue_Mitarbeiter\\Bewerbungsgespräche\\Beispiele_Fragenkatalog\\PIA.DotNet.Interview\\src\\PIA.DotNet.Interview.Core\\PIA.DotNet.Interview.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\02_pia4.0\\Neue_Mitarbeiter\\Bewerbungsgespräche\\Beispiele_Fragenkatalog\\PIA.DotNet.Interview\\src\\PIA.DotNet.Interview.Core\\PIA.DotNet.Interview.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\02_pia4.0\\Neue_Mitarbeiter\\Bewerbungsgespräche\\Beispiele_Fragenkatalog\\PIA.DotNet.Interview\\src\\PIA.DotNet.Interview.Core\\PIA.DotNet.Interview.Core.csproj",
+        "projectName": "PIA.DotNet.Interview.Core",
+        "projectPath": "D:\\02_pia4.0\\Neue_Mitarbeiter\\Bewerbungsgespräche\\Beispiele_Fragenkatalog\\PIA.DotNet.Interview\\src\\PIA.DotNet.Interview.Core\\PIA.DotNet.Interview.Core.csproj",
+        "packagesPath": "C:\\Users\\mwerschitz\\.nuget\\packages\\",
+        "outputPath": "D:\\02_pia4.0\\Neue_Mitarbeiter\\Bewerbungsgespräche\\Beispiele_Fragenkatalog\\PIA.DotNet.Interview\\src\\PIA.DotNet.Interview.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mwerschitz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 19.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/piagroup/_packaging/DiamondFramework/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

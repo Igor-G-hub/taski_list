@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+5eFEk1mM0zocLsKzUkQErp/VO3EpU7rrTVjfzEYVTvLALW7GwqSCnAWO5xx5Sc2tvWvTqsZ1Yhv2Jo/Aek5xw==",
+  "success": true,
+  "projectFilePath": "D:\\02_pia4.0\\Neue_Mitarbeiter\\Bewerbungsgespräche\\Beispiele_Fragenkatalog\\PIA.DotNet.Interview\\src\\PIA.DotNet.Interview.Core\\PIA.DotNet.Interview.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mwerschitz\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
